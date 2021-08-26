@@ -2,7 +2,7 @@
 
 ### ¿Cómo descargarlo?
 
-#### En la esquina superior derecha, en el botón 'code' seleccione clonar repositorio y copie el link, luego en una consola, ejecute el comando git clone ***url copiada*** y se clonará el repositorio, ejecute el comando npm start y voalá.
+#### En la esquina superior derecha, en el botón 'code' seleccione clonar repositorio y copie el link, luego en una consola, ejecute el comando 'git clone ***url copiada***' y se clonará el repositorio, ejecute el comando 'npm start' y voalá.
 
 ### Sobre el proyecto:
 Realicé el challenge en un tiempo aproximado de 1 día y medio contando la edición del repositorio. Usé *react-native* expo para realizarlo.
