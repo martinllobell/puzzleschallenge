@@ -1,11 +1,11 @@
 # Puzzle's Challenge
 
 ### Sobre las features:
--[x] Construir un carrusel
--[x] Por defecto muestra 4-3 bloques
--[x] La navegación se realiza con botones
--[x] Los botones previo y siguiente se desactivan si no hay índice en el lado correspondiente
--[X] Muestra una imágen aleatoria del set de imágenes del bloque específico
+[x] Construir un carrusel
+[x] Por defecto muestra 4-3 bloques
+[x] La navegación se realiza con botones
+[x] Los botones previo y siguiente se desactivan si no hay índice en el lado correspondiente
+[x] Muestra una imágen aleatoria del set de imágenes del bloque específico
 -[] Feature adicional
 ### Sobre el proyecto:
 Realicé el challenge en un tiempo aproximado de 1 día y medio contando la edición del repositorio. Usé *react-native* expo para realizarlo.
