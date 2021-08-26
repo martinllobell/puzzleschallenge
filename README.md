@@ -1,6 +1,12 @@
 # Puzzle's Challenge
 
 ### Sobre las features:
+
+- [x] Finish my changes
+- [x] Finish my changes
+- [x] Finish my changes
+- [] Finish my changes
+
  [x] Construir un carrusel
  [x] Por defecto muestra 4-3 bloques
  [x] La navegación se realiza con botones
